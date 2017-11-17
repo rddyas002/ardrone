@@ -1,5 +1,7 @@
 del bin/*.*
 
+mkdir bin
+
 cd motorboard
 call make.bat
 cd ..
